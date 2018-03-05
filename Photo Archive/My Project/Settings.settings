@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Needswork" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Extra work archive</Value>
+    </Setting>
+    <Setting Name="Displayready" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Display archive</Value>
+    </Setting>
+    <Setting Name="ForReview" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Review archive</Value>
+    </Setting>
+    <Setting Name="Archive" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Private archive</Value>
+    </Setting>
+    <Setting Name="FamilyHistory" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Family history archive</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
