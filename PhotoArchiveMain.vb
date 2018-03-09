@@ -20,7 +20,9 @@ Public Class PhotoArchiveMain
     End Structure
 
     Private Sub FileToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles FileToolStripMenuItem.Click
+
         Close()
+
     End Sub
 
     Private Function FindPicDate(PicFile As String) As ExtendedData
